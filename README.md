@@ -1,1 +1,4 @@
-Python
+
+bs4
+requests
+csv
